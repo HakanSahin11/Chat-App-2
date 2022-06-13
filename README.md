@@ -1,4 +1,4 @@
-# Chat-App-2
+# Chat App 2
 
 # Proejct is currently on hold for the time being / Work in Progress
 
