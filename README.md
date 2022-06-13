@@ -1,7 +1,5 @@
 # Chat-App-2
 
-# Chat-App-2
-
 # Proejct is currently on hold for the time being / Work in Progress
 
 Current project aims to imrpove the prior version of the chat app, incorporating a more secure authentication for the webapllication.   
