@@ -1,6 +1,7 @@
-# Chat-App-2
-
 # Proejct is currently on hold for the time being / Work in Progress
+
+
+# Chat-App-2
 
 Current project aims to imrpove the prior version of the chat app, incorporating a more secure authentication for the webapllication.   
 The project will be made in C# using Blazor Server and use VS Authentication & Authorization system for security. 
