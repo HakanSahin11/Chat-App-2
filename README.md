@@ -1,4 +1,4 @@
-# Chat-App-2
+# Chat App 2
 
 # Proejct is currently on hold for the time being / Work in Progress
 
@@ -9,3 +9,8 @@ The livechat function will take use of SignalR using chathubs for unique connect
 All user info and chat logs will be stored into a MSSQL Database with all sensitive data being encrypted by the Block encryption form Aes.
 
 The project will furthermore have a Case Description in danish attached.
+
+
+![image](https://user-images.githubusercontent.com/59696753/173362789-cc309876-b864-4a75-969c-84678f07cd63.png)
+
+![image](https://user-images.githubusercontent.com/59696753/173362826-e7e1f8fb-84c2-4389-985b-705fe8b3666c.png)
