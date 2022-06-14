@@ -1,6 +1,6 @@
 # Chat App 2
 
-# Proejct is currently on hold for the time being / Work in Progress
+# Proejct is currently on hold for the time being, while still being under "Work in Progress" state
 
 Current project aims to imrpove the prior version of the chat app, incorporating a more secure and reliable authentication form for the webapllication.   
 The project itself will be made in C# using Blazor Server and take use VS Authentication & Authorization system for security. 
