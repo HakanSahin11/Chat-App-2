@@ -11,6 +11,8 @@ All user info and chat logs will be stored into a MSSQL Database with all sensit
 The project will furthermore have a Case Description in danish attached.
 
 
+
+Illustration of authentication for Chat App so far
 ![image](https://user-images.githubusercontent.com/59696753/173362789-cc309876-b864-4a75-969c-84678f07cd63.png)
 
 ![image](https://user-images.githubusercontent.com/59696753/173362826-e7e1f8fb-84c2-4389-985b-705fe8b3666c.png)
