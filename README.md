@@ -11,6 +11,12 @@ All user info and chat logs will be stored into a MSSQL Database with all sensit
 Casebeskrivelse / Case description (In danish):
 [Chat App V2 Case Beskrivelse.pdf](https://github.com/HakanSahin11/Chat-App-2/files/8897447/Chat.App.V2.Case.Beskrivelse.pdf)
 
+Process Repport (In danish)
+[Process.Rapport.-.Chat.Applikation.pdf](https://github.com/HakanSahin11/Chat-App-2/files/8941964/Process.Rapport.-.Chat.Applikation.pdf)
+
+Product Report (In danish)
+[Produkt.Rapport.-.Chat.Applikation.pdf](https://github.com/HakanSahin11/Chat-App-2/files/8941965/Produkt.Rapport.-.Chat.Applikation.pdf)
+
 Illustration of authentication for Chat App so far
 ![image](https://user-images.githubusercontent.com/59696753/173362789-cc309876-b864-4a75-969c-84678f07cd63.png)
 
